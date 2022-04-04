@@ -8,5 +8,5 @@ const setOutputData = function (outputData) {
 };
 
 const myAlgorithm = function (inputData) {
-    return "kek";
+    return "return your output data in this function";
 };
